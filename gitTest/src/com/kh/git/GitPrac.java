@@ -5,6 +5,7 @@ public class GitPrac {
 		System.out.println("hello");
 		System.out.println("world");
 		System.out.println("thxxxxxxx");
+		System.out.println("≥≠¡∂¿Â");
 		// §æ§æ?
 	}
 
