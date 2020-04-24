@@ -10,6 +10,8 @@ public class GitPrac {
 
 		System.out.println("≥≠¡∂¿Â");
 		// §æ§æ?
+		
+		System.out.println("22222222");
 	}
 
 }
