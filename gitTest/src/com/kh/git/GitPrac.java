@@ -5,7 +5,9 @@ public class GitPrac {
 		System.out.println("hello");
 		System.out.println("world");
 		System.out.println("thxxxxxxx");
+
 		System.out.println("난 조원 ㅋ");
+
 		System.out.println("난조장");
 		// ㅎㅎ?
 	}
